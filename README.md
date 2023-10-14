@@ -21,7 +21,7 @@ Certifique-se de ter o Java 17 instalado em sua máquina.
 
 ## Instalação
 
-1. Clone este repositório: `git clone [https://github.com/seu-usuario/todolist.git](https://github.com/Rempel/java-todolist)`
+1. Clone este repositório: `git clone https://github.com/Rempel/java-todolist.git`
 2. Navegue até o diretório do projeto: `cd todolist`
 3. Execute a aplicação usando o Maven: `mvn spring-boot:run`
 
