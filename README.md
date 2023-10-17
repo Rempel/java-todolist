@@ -31,4 +31,4 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir problemas
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT.
